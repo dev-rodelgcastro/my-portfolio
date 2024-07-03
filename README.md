@@ -1,2 +1,1 @@
-# rodelgcastro.github.io
-My Portfolio
+# Rodel Castro Portfolio
