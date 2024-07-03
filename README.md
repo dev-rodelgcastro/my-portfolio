@@ -1,2 +1,2 @@
-# dev-rodelgcastro.github.io
+# rodelgcastro.github.io
 My Portfolio
